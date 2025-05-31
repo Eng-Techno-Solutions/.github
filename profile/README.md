@@ -1,8 +1,11 @@
 # 🖥️ Eng Techno
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Solutions+Company;Web+Development;Mobile+App+Development;Technical+Consultation;Web+Systems+&+Portals)](https://git.io/typing-svg)
+![Eng Techno](./assets/ET-Cover.png)
 
-Eng Techno is a Software Solutions Company specializing in *Product Design* and *Software Development* such as:
+### About Us
+
+Eng Techno is a Software Solutions Company specializing in _Product Design_ and _Software Development_ such as:
 
 - Mobile Applications
 - Websites
