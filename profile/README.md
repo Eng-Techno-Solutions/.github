@@ -16,7 +16,7 @@ We are passionate about creating new ideas and products caring about every singl
 
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/engtechnoCompany/)
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Eng-Techno-Solutions)
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/eng-techno)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/company/eng-techno)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/eng_techno)
 
 
